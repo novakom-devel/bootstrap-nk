@@ -1,5 +1,5 @@
 {
-  "name": "twbs/bootstrap",
+  "name": "novakom-devel/bootstrap-nk",
   "description": "The most popular front-end framework for developing responsive, mobile first projects on the web.",
   "keywords": [
     "css",
@@ -22,16 +22,10 @@
       "email": "jacobthornton@gmail.com"
     }
   ],
-  "support": {
-    "issues": "https://github.com/twbs/bootstrap/issues"
-  },
   "license": "MIT",
   "extra": {
     "branch-alias": {
       "dev-master": "3.3.x-dev"
     }
   },
-  "replace": {
-    "twitter/bootstrap": "self.version"
-  }
 }
