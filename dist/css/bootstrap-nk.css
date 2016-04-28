@@ -4272,6 +4272,13 @@ select[multiple].input-lg {
     font-size: 12px;
   }
 }
+div.required label.control-label:after {
+  position: absolute;
+  content: '*';
+  color: #d9534f;
+  right: 0px;
+  top: 7px;
+}
 .btn {
   display: inline-block;
   margin-bottom: 0;
